@@ -1,0 +1,22 @@
+BUSINESS INSIGHT: Customer Value and Lifetime Value
+
+PROBLEM
+Understand customer economic value and the drivers of lifetime value.
+
+WORKFLOW
+01 Business Problem
+02 Data Audit
+03 Data Cleaning
+04 Data Profiling
+05 Feature Engineering
+06 Business EDA
+07 Feature Engineering EDA
+08 Model
+09 Business Conclusions
+
+RAW DATA
+customers.csv
+order_items.csv
+orders.csv
+payments.csv
+returns.csv

@@ -1,0 +1,21 @@
+BUSINESS INSIGHT: Product Reviews and Customer Voice
+
+PROBLEM
+Connect customer feedback with product and customer behaviour.
+
+WORKFLOW
+01 Business Problem
+02 Data Audit
+03 Data Cleaning
+04 Data Profiling
+05 Feature Engineering
+06 Business EDA
+07 Feature Engineering EDA
+08 Model
+09 Business Conclusions
+
+RAW DATA
+customers.csv
+order_items.csv
+product_reviews.csv
+products.csv

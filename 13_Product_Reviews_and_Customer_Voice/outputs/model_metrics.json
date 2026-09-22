@@ -1,0 +1,8 @@
+{
+  "reviews": 2606,
+  "positive_rate": 0.837298541826554,
+  "ROC_AUC": 1.0,
+  "PR_AUC": 1.0,
+  "F1": 1.0,
+  "note": "Ratings 3 excluded from binary sentiment target."
+}

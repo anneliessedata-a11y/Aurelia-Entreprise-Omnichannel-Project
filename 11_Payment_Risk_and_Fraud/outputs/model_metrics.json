@@ -1,0 +1,8 @@
+{
+  "payments": 45000,
+  "failure_rate": 0.1002,
+  "ROC_AUC": 0.7967125912938996,
+  "PR_AUC": 0.6804586299282527,
+  "F1": 0.744988864142539,
+  "scope": "payment failure risk; no fraud label exists in supplied data"
+}

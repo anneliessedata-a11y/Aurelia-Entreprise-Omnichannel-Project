@@ -1,0 +1,8 @@
+{
+  "tickets": 9000,
+  "low_satisfaction_rate": 0.07422222222222222,
+  "ROC_AUC": 0.5563170346776443,
+  "PR_AUC": 0.08531378381979454,
+  "F1": 0.14572192513368984,
+  "median_resolution_hours": 60.0
+}

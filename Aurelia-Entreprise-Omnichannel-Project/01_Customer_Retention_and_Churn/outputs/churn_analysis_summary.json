@@ -1,0 +1,8 @@
+{
+  "observation_cutoff": "2026-10-13",
+  "window_start": "2026-04-16",
+  "customers_modelled": 10211,
+  "inactive_rate": 0.1274116149250808,
+  "target_definition": "customer_status == Inactive; At Risk excluded",
+  "caveat": "customer_status has no event timestamp, so this is a retrospective baseline rather than a deployment-ready forecasting label."
+}

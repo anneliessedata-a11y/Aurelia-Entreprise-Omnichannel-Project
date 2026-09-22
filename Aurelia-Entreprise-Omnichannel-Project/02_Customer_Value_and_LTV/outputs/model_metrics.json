@@ -1,0 +1,11 @@
+{
+  "cutoff": "2024-10-24",
+  "horizon_days": 90,
+  "test_rows": 2705,
+  "LinearRegression_MAE": 31.69377685435571,
+  "LinearRegression_RMSE": 136.83975444729285,
+  "LinearRegression_R2": -0.050980535570292806,
+  "HistGradientBoosting_MAE": 31.71998604955128,
+  "HistGradientBoosting_RMSE": 136.82199798130495,
+  "HistGradientBoosting_R2": -0.05070780065596092
+}

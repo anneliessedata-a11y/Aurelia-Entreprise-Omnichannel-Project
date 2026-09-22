@@ -1,0 +1,6 @@
+RAW DATASETS USED BY THIS BUSINESS INSIGHT
+
+- product_reviews.csv
+- products.csv
+- customers.csv
+- order_items.csv

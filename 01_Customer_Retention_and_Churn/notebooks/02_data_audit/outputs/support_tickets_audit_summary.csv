@@ -1,0 +1,2 @@
+dataset,rows,columns,duplicates,missing_cells
+support_tickets.csv,9000,10,0,5144

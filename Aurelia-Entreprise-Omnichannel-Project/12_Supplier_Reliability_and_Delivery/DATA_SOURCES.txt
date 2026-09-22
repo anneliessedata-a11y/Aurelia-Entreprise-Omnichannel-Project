@@ -1,0 +1,5 @@
+RAW DATASETS USED BY THIS BUSINESS INSIGHT
+
+- suppliers.csv
+- supplier_shipments.csv
+- products.csv

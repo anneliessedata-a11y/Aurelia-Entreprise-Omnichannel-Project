@@ -1,0 +1,21 @@
+BUSINESS INSIGHT: Marketing Engagement and Conversion
+
+PROBLEM
+Understand engagement behaviour and its relationship with downstream conversion.
+
+WORKFLOW
+01 Business Problem
+02 Data Audit
+03 Data Cleaning
+04 Data Profiling
+05 Feature Engineering
+06 Business EDA
+07 Feature Engineering EDA
+08 Model
+09 Business Conclusions
+
+RAW DATA
+campaigns.csv
+customers.csv
+marketing_events.csv
+orders.csv

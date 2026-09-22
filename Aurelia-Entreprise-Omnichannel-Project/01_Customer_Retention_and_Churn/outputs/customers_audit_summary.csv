@@ -1,0 +1,2 @@
+dataset,rows,columns,duplicates,missing_cells
+customers.csv,12000,15,0,11619

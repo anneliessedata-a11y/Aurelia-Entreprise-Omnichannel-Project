@@ -1,0 +1,7 @@
+{
+  "rows": 40491,
+  "MAE": 169.87300313677767,
+  "RMSE": 240.8320733373051,
+  "R2": -0.0006750713816059406,
+  "leakage_control": "Removed discount, shipping and tax because they are components of gross order value."
+}

@@ -1,0 +1,2 @@
+cutoff,horizon_days,test_rows,LinearRegression_MAE,LinearRegression_RMSE,LinearRegression_R2,HistGradientBoosting_MAE,HistGradientBoosting_RMSE,HistGradientBoosting_R2
+2024-10-24,90,2705,31.69377685435571,136.83975444729285,-0.050980535570292806,31.71998604955128,136.82199798130495,-0.05070780065596092

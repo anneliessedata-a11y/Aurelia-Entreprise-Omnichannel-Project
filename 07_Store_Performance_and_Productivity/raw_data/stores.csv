@@ -1,0 +1,51 @@
+store_id,store_name,city,province,region,store_format,opening_date,closing_date,floor_area_sqm,store_status
+STR-001,Aurelia Polokwane 1,Polokwane,Limpopo,Inland,Flagship,2011-05-06,,1991,Active
+STR-002,Aurelia Johannesburg 2,Johannesburg,Gauteng,Inland,Compact,2016-07-09,,2181,Active
+STR-003,Aurelia Midrand 3,Midrand,Gauteng,Inland,Standard,2013-01-13,,461,Active
+STR-004,Aurelia Sandton 4,Sandton,Gauteng,Inland,Flagship,2021-01-29,,1962,Active
+STR-005,Aurelia Polokwane 5,Polokwane,Limpopo,Inland,Flagship,2017-09-23,,538,Active
+STR-006,Aurelia Bloemfontein 6,Bloemfontein,Free State,Inland,Outlet,2017-07-14,,1084,Active
+STR-007,Aurelia Johannesburg 7,Johannesburg,Gauteng,Inland,Flagship,2021-10-08,,1698,Active
+STR-008,Aurelia Pretoria 8,Pretoria,Gauteng,Inland,Standard,2018-03-19,,1247,Active
+STR-009,Aurelia Midrand 9,Midrand,Gauteng,Inland,Flagship,2011-05-22,,1497,Active
+STR-010,Aurelia Gqeberha 10,Gqeberha,Eastern Cape,Coastal,Standard,2022-12-04,,2112,Active
+STR-011,Aurelia Polokwane 11,Polokwane,Limpopo,Inland,Outlet,2012-06-27,,1955,Active
+STR-012,Aurelia Midrand 12,Midrand,Gauteng,Inland,Outlet,2011-01-09,,2434,Active
+STR-013,Aurelia Bloemfontein 13,Bloemfontein,Free State,Inland,Compact,2020-03-17,,2001,Active
+STR-014,Aurelia Johannesburg 14,Johannesburg,Gauteng,Inland,Standard,2015-06-25,2020-01-16,1479,Closed
+STR-015,Aurelia Durban 15,Durban,KwaZulu-Natal,Coastal,Compact,2012-04-28,,2325,Active
+STR-016,Aurelia Cape Town 16,Cape Town,Western Cape,Coastal,Standard,2021-03-20,,1174,Active
+STR-017,Aurelia Midrand 17,Midrand,Gauteng,Inland,Compact,2014-11-28,,421,Active
+STR-018,Aurelia Pretoria 18,Pretoria,Gauteng,Inland,Flagship,2017-01-26,,1291,Active
+STR-019,Aurelia Durban 19,Durban,KwaZulu-Natal,Coastal,Flagship,2011-12-16,,992,Active
+STR-020,Aurelia Stellenbosch 20,Stellenbosch,Western Cape,Coastal,Compact,2013-06-02,,2365,Active
+STR-021,Aurelia Bloemfontein 21,Bloemfontein,Free State,Inland,Compact,2016-08-01,,1666,Active
+STR-022,Aurelia Johannesburg 22,Johannesburg,Gauteng,Inland,Outlet,2020-07-18,,1977,Active
+STR-023,Aurelia Gqeberha 23,Gqeberha,Eastern Cape,Coastal,Flagship,2022-07-14,,2143,Active
+STR-024,Aurelia Durban 24,Durban,KwaZulu-Natal,Coastal,Flagship,2015-11-02,,789,Active
+STR-025,Aurelia Gqeberha 25,Gqeberha,Eastern Cape,Coastal,Compact,2020-04-11,,2123,Active
+STR-026,Aurelia Polokwane 26,Polokwane,Limpopo,Inland,Compact,2013-01-04,2019-11-01,2020,Closed
+STR-027,Aurelia Bloemfontein 27,Bloemfontein,Free State,Inland,Standard,2021-10-02,,1745,Active
+STR-028,Aurelia Pretoria 28,Pretoria,Gauteng,Inland,Flagship,2014-03-05,,2006,Active
+STR-029,Aurelia Polokwane 29,Polokwane,Limpopo,Inland,Standard,2017-08-12,,1529,Active
+STR-030,Aurelia Cape Town 30,Cape Town,Western Cape,Coastal,Flagship,2013-09-12,,507,Active
+STR-031,Aurelia Midrand 31,Midrand,Gauteng,Inland,Flagship,2019-11-09,,1309,Active
+STR-032,Aurelia Durban 32,Durban,KwaZulu-Natal,Coastal,Compact,2011-03-12,,1971,Active
+STR-033,Aurelia Umhlanga 33,Umhlanga,KwaZulu-Natal,Coastal,Compact,2018-07-07,,1495,Active
+STR-034,Aurelia Sandton 34,Sandton,Gauteng,Inland,Compact,2021-12-21,2025-06-02,1031,Closed
+STR-035,Aurelia Stellenbosch 35,Stellenbosch,Western Cape,Coastal,Standard,2016-07-29,,872,Active
+STR-036,Aurelia Polokwane 36,Polokwane,Limpopo,Inland,Compact,2016-02-25,,328,Active
+STR-037,Aurelia Polokwane 37,Polokwane,Limpopo,Inland,Flagship,2013-07-10,,2175,Active
+STR-038,Aurelia Bloemfontein 38,Bloemfontein,Free State,Inland,Standard,2014-03-28,,1227,Active
+STR-039,Aurelia Gqeberha 39,Gqeberha,Eastern Cape,Coastal,Standard,2019-12-20,,1386,Active
+STR-040,Aurelia Sandton 40,Sandton,Gauteng,Inland,Outlet,2021-10-21,,1170,Active
+STR-041,Aurelia Durban 41,Durban,KwaZulu-Natal,Coastal,Compact,2016-02-14,,972,Active
+STR-042,Aurelia Polokwane 42,Polokwane,Limpopo,Inland,Standard,2012-07-07,2014-08-11,452,Closed
+STR-043,Aurelia Polokwane 43,Polokwane,Limpopo,Inland,Compact,2021-08-14,,1875,Active
+STR-044,Aurelia Johannesburg 44,Johannesburg,Gauteng,Inland,Standard,2020-10-18,,612,Active
+STR-045,Aurelia Johannesburg 45,Johannesburg,Gauteng,Inland,Compact,2024-02-16,,592,Active
+STR-046,Aurelia Durban 46,Durban,KwaZulu-Natal,Coastal,Compact,2017-06-18,,1253,Active
+STR-047,Aurelia Pretoria 47,Pretoria,Gauteng,Inland,Standard,2013-08-06,,928,Active
+STR-048,Aurelia Bloemfontein 48,Bloemfontein,Free State,Inland,Compact,2019-02-22,,1064,Active
+STR-049,Aurelia Midrand 49,Midrand,Gauteng,Inland,Outlet,2015-02-28,,515,Active
+STR-050,Aurelia Durban 50,Durban,KwaZulu-Natal,Coastal,Outlet,2015-07-08,,2294,Active

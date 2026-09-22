@@ -1,0 +1,2 @@
+dataset,rows,columns,duplicates,missing_cells
+marketing_events.csv,30000,8,0,0

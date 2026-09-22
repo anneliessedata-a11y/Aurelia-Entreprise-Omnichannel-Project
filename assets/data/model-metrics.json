@@ -1,0 +1,58 @@
+[
+  {
+    "project": "Customer Retention & Churn",
+    "slug": "01_customer_retention_and_churn",
+    "model": "Retention / churn analysis",
+    "performance": "12.74% inactive rate",
+    "detail": "10,211 customers modelled",
+    "insight": "The portfolio identifies inactivity as the retention signal, while documenting that the available status field is retrospective rather than a deployment-ready forecasting label."
+  },
+  {
+    "project": "Customer Value & LTV",
+    "slug": "02_customer_value_and_ltv",
+    "model": "Linear Regression + HistGradientBoosting",
+    "performance": "RMSE 136.82",
+    "detail": "R\u00b2 \u2248 \u22120.051 on the 90-day test horizon",
+    "insight": "The modelling result is treated as evidence about feature limitations rather than as a production forecast; the business question is how reliably future customer value can be estimated from the available history."
+  },
+  {
+    "project": "Inventory Demand & Stockout Risk",
+    "slug": "06_inventory_demand_and_stockout_risk",
+    "model": "Demand forecasting",
+    "performance": "MAE 1.25 \u00b7 RMSE 1.66",
+    "detail": "63.13% next-day stockout rate in the analysed sample",
+    "insight": "Demand signals can be connected directly to inventory pressure, making the analysis useful for replenishment prioritisation and stockout-risk review."
+  },
+  {
+    "project": "Customer Service & Satisfaction",
+    "slug": "09_customer_service_and_satisfaction",
+    "model": "Classification model",
+    "performance": "ROC-AUC 0.556 \u00b7 F1 0.146",
+    "detail": "7.42% low-satisfaction rate \u00b7 60h median resolution",
+    "insight": "Service workload and resolution time can be examined alongside satisfaction outcomes to identify where operational changes may have customer impact."
+  },
+  {
+    "project": "Returns & Refund Risk",
+    "slug": "10_returns_and_refund_risk",
+    "model": "Classification model",
+    "performance": "ROC-AUC 0.668 \u00b7 PR-AUC 0.124",
+    "detail": "F1 0.207 \u00b7 7.48% return rate",
+    "insight": "Return exposure can be investigated at order, product and customer level to support targeted review of avoidable return drivers."
+  },
+  {
+    "project": "Payment Risk",
+    "slug": "11_payment_risk_and_fraud",
+    "model": "Payment-failure classification",
+    "performance": "ROC-AUC 0.797 \u00b7 PR-AUC 0.680",
+    "detail": "F1 0.745 \u00b7 10.02% failure rate",
+    "insight": "The model separates payment-failure risk in the supplied data. It is not presented as a validated fraud detector because no fraud ground-truth label exists."
+  },
+  {
+    "project": "Product Reviews & Customer Voice",
+    "slug": "13_product_reviews_and_customer_voice",
+    "model": "TF-IDF + Logistic Regression",
+    "performance": "ROC-AUC 1.00 \u00b7 PR-AUC 1.00",
+    "detail": "F1 1.00 \u00b7 2,606 reviews",
+    "insight": "Review text can be converted into structured customer-voice signals; the perfect score is explicitly treated with caution because the binary sentiment target is derived from ratings."
+  }
+]

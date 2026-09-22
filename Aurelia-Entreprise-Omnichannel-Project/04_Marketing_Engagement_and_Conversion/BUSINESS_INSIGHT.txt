@@ -1,0 +1,5 @@
+BUSINESS INSIGHT: Marketing Engagement and Conversion
+
+This project evaluates marketing engagement and conversion using the raw datasets listed in raw_data.
+The workflow separates dataset cleaning, profiling, feature engineering, business EDA, feature EDA and modelling.
+Each notebook has one analytical purpose and is written for reproducible IDE execution.

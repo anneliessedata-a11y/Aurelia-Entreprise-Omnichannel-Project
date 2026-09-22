@@ -1,0 +1,62 @@
+<!doctype html><html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
+<title>Models · Zenith Data Science</title><link rel="stylesheet" href="assets/css/style.css"></head><body>
+<header class="topbar"><a class="brand" href="index.html">ZENITH<span>/</span>DATA</a><nav><a href="projects.html">Work</a><a href="business-problem.html">Business Problem</a><a href="evidence.html">Evidence</a><a class="active" href="models.html">Models</a><a href="about.html">About</a><a href="writing.html">Writing</a></nav><a class="top-cta" href="documents/Fulufhelathabelo_Tshivhula_Data_Science_CV.pdf" target="_blank">CV</a></header>
+<main>
+<section class="project-hero"><div class="container"><p class="eyebrow">MACHINE LEARNING</p><h1>Models, metrics and interpretation.</h1>
+<p class="lead">The portfolio surfaces the modelling work directly: what was modelled, which metrics were recorded, what the result means, and where the evidence has limits.</p></div></section>
+<section class="section"><div class="container"><div class="model-grid"><article class="model-card">
+<div class="number">PROJECT 01</div><h3>Customer Retention & Churn</h3>
+<p class="tag">Logistic Regression + Random Forest</p><div class="model-metric">ROC-AUC 0.522 (RF)</div><div class="model-detail">PR-AUC 0.139 · F1 0.185</div>
+<p>Observed churn/inactivity classification; retrospective target limitation is documented.</p><a class="button" href="01_Customer_Retention_and_Churn/notebooks/08_model/customer_churn_model.ipynb">Open model notebook →</a>
+</article><article class="model-card">
+<div class="number">PROJECT 02</div><h3>Customer Value & LTV</h3>
+<p class="tag">Linear Regression + HistGradientBoosting</p><div class="model-metric">RMSE 136.82</div><div class="model-detail">R² −0.051</div>
+<p>90-day future-value test horizon; weak fit is treated as a feature/target limitation.</p><a class="button" href="02_Customer_Value_and_LTV/notebooks/08_model/customer_ltv_model.ipynb">Open model notebook →</a>
+</article><article class="model-card">
+<div class="number">PROJECT 03</div><h3>Campaign ROI & Conversion</h3>
+<p class="tag">Campaign conversion analysis + Random Forest notebook</p><div class="model-metric">Campaign-level analysis</div><div class="model-detail">50 campaigns</div>
+<p>Separates campaign economics from predictive modelling claims.</p><a class="button" href="03_Campaign_ROI_and_Conversion/notebooks/08_model/campaign_conversion_model.ipynb">Open model notebook →</a>
+</article><article class="model-card">
+<div class="number">PROJECT 04</div><h3>Marketing Engagement & Conversion</h3>
+<p class="tag">Logistic Regression + Random Forest</p><div class="model-metric">ROC-AUC 0.480 (RF)</div><div class="model-detail">PR-AUC 0.021 · F1 0.041</div>
+<p>Strong class imbalance makes precision-recall interpretation important.</p><a class="button" href="04_Marketing_Engagement_and_Conversion/notebooks/08_model/marketing_conversion_model.ipynb">Open model notebook →</a>
+</article><article class="model-card">
+<div class="number">PROJECT 05</div><h3>Sales & Order Value</h3>
+<p class="tag">Regression model</p><div class="model-metric">MAE 169.87</div><div class="model-detail">RMSE 240.83 · R² −0.001</div>
+<p>Leakage controls exclude discount, shipping and tax components.</p><a class="button" href="05_Sales_and_Order_Value/notebooks/08_model/sales_value_model.ipynb">Open model notebook →</a>
+</article><article class="model-card">
+<div class="number">PROJECT 06</div><h3>Inventory Demand & Stockout Risk</h3>
+<p class="tag">Demand forecasting</p><div class="model-metric">MAE 1.25</div><div class="model-detail">RMSE 1.66</div>
+<p>Next-day stockout rate is reported alongside forecast error.</p><a class="button" href="06_Inventory_Demand_and_Stockout_Risk/notebooks/08_model/inventory_stockout_model.ipynb">Open model notebook →</a>
+</article><article class="model-card">
+<div class="number">PROJECT 07</div><h3>Store Performance & Productivity</h3>
+<p class="tag">Store clustering / performance segmentation</p><div class="model-metric">4 clusters</div><div class="model-detail">50 stores</div>
+<p>Clusters are interpreted as descriptive operating segments, not causal groups.</p><a class="button" href="07_Store_Performance_and_Productivity/notebooks/08_model/store_performance_model.ipynb">Open model notebook →</a>
+</article><article class="model-card">
+<div class="number">PROJECT 08</div><h3>Product Profitability & Mix</h3>
+<p class="tag">Regression model</p><div class="model-metric">MAE 606.53</div><div class="model-detail">RMSE 1207.32</div>
+<p>Connects product economics with sales and margin structure.</p><a class="button" href="08_Product_Profitability_and_Mix/notebooks/08_model/product_profitability_model.ipynb">Open model notebook →</a>
+</article><article class="model-card">
+<div class="number">PROJECT 09</div><h3>Customer Service & Satisfaction</h3>
+<p class="tag">Classification model</p><div class="model-metric">ROC-AUC 0.556</div><div class="model-detail">PR-AUC 0.085 · F1 0.146</div>
+<p>Low-satisfaction prediction is presented with operational context.</p><a class="button" href="09_Customer_Service_and_Satisfaction/notebooks/08_model/service_satisfaction_model.ipynb">Open model notebook →</a>
+</article><article class="model-card">
+<div class="number">PROJECT 10</div><h3>Returns & Refund Risk</h3>
+<p class="tag">Classification model</p><div class="model-metric">ROC-AUC 0.668</div><div class="model-detail">PR-AUC 0.124 · F1 0.207</div>
+<p>Return risk is distinguished from a causal explanation of returns.</p><a class="button" href="10_Returns_and_Refund_Risk/notebooks/08_model/returns_risk_model.ipynb">Open model notebook →</a>
+</article><article class="model-card">
+<div class="number">PROJECT 11</div><h3>Payment Risk & Fraud</h3>
+<p class="tag">Payment-failure classification</p><div class="model-metric">ROC-AUC 0.797</div><div class="model-detail">PR-AUC 0.680 · F1 0.745</div>
+<p>The supplied data has payment-failure labels, not fraud ground truth.</p><a class="button" href="11_Payment_Risk_and_Fraud/notebooks/08_model/payment_risk_model.ipynb">Open model notebook →</a>
+</article><article class="model-card">
+<div class="number">PROJECT 12</div><h3>Supplier Reliability & Delivery</h3>
+<p class="tag">Supplier-delay classification</p><div class="model-metric">ROC-AUC 0.500</div><div class="model-detail">PR-AUC 0.621 · F1 0.000</div>
+<p>Performance is interpreted cautiously given the target/validation limitations.</p><a class="button" href="12_Supplier_Reliability_and_Delivery/notebooks/08_model/supplier_delay_model.ipynb">Open model notebook →</a>
+</article><article class="model-card">
+<div class="number">PROJECT 13</div><h3>Product Reviews & Customer Voice</h3>
+<p class="tag">TF-IDF + Logistic Regression</p><div class="model-metric">ROC-AUC 1.00</div><div class="model-detail">PR-AUC 1.00 · F1 1.00</div>
+<p>The binary sentiment target is derived from ratings, so perfect performance requires caution.</p><a class="button" href="13_Product_Reviews_and_Customer_Voice/notebooks/08_model/review_rating_model.ipynb">Open model notebook →</a>
+</article></div></div></section>
+<section class="model-callout"><div class="container two-col"><div><p class="eyebrow">MODEL GOVERNANCE</p><h2>A metric is evidence, not a conclusion.</h2></div><div><p>Predictive performance is shown together with target definitions, class balance, leakage controls and validation limitations. Weak performance remains visible because it is part of the analytical result.</p></div></div></section>
+</main><footer class="footer"><div class="container">Zenith Data Science Portfolio · Business analytics, machine learning, NLP and decision support.</div></footer>
+</body></html>

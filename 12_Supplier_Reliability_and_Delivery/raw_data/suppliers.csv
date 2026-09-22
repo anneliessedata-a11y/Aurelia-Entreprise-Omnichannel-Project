@@ -1,0 +1,71 @@
+supplier_id,supplier_name,supplier_country,supplier_type,contract_start_date,contract_status,payment_terms_days
+SUP-001,Luma Supply 1,South Africa,Local,2017-01-03,Active,45
+SUP-002,Orion Supply 2,Vietnam,International,2014-11-29,Active,90
+SUP-003,Pulse Supply 3,India,International,2020-05-14,Active,60
+SUP-004,Luma Supply 4,South Africa,Local,2022-08-12,Active,90
+SUP-005,Aurelia Select Supply 5,South Africa,Local,2014-11-20,Active,30
+SUP-006,Luma Supply 6,South Africa,Local,2020-07-12,Active,90
+SUP-007,Pulse Supply 7,China,International,2014-11-10,Active,90
+SUP-008,Mira Supply 8,China,International,2019-11-07,Active,60
+SUP-009,Aurelia Select Supply 9,India,International,2020-08-22,Active,30
+SUP-010,Orion Supply 10,Vietnam,International,2016-12-02,Active,60
+SUP-011,Pulse Supply 11,South Africa,Local,2020-01-26,Active,45
+SUP-012,Orion Supply 12,South Africa,Local,2014-12-24,Active,45
+SUP-013,Nova Supply 13,South Africa,Local,2012-11-13,Active,60
+SUP-014,Vela Supply 14,Turkey,International,2013-01-20,Active,45
+SUP-015,Luma Supply 15,South Africa,Local,2016-11-23,Active,30
+SUP-016,Mira Supply 16,China,International,2021-11-19,Active,30
+SUP-017,Solara Supply 17,South Africa,Local,2013-05-25,Active,60
+SUP-018,Vela Supply 18,South Africa,Local,2016-12-28,Active,30
+SUP-019,Mira Supply 19,South Africa,Local,2019-09-17,Active,30
+SUP-020,Luma Supply 20,India,International,2014-03-20,Active,45
+SUP-021,Luma Supply 21,China,International,2019-11-26,Active,60
+SUP-022,Pulse Supply 22,South Africa,Local,2015-05-08,Active,45
+SUP-023,Vela Supply 23,India,International,2020-11-08,Active,60
+SUP-024,Solara Supply 24,South Africa,Local,2018-05-05,Active,90
+SUP-025,Mira Supply 25,India,International,2017-12-27,Active,30
+SUP-026,Nova Supply 26,South Africa,Local,2013-12-08,Active,60
+SUP-027,Vela Supply 27,South Africa,Local,2017-01-26,Active,45
+SUP-028,Aurelia Select Supply 28,South Africa,Local,2021-05-19,Active,45
+SUP-029,Aurelia Select Supply 29,South Africa,Local,2012-03-19,Active,60
+SUP-030,Vela Supply 30,South Africa,Local,2020-04-22,Active,60
+SUP-031,Vela Supply 31,China,International,2017-05-25,Active,45
+SUP-032,Mira Supply 32,Vietnam,International,2019-11-17,Active,45
+SUP-033,Pulse Supply 33,Germany,International,2019-04-07,Active,45
+SUP-034,Pulse Supply 34,South Africa,Local,2016-09-24,Active,60
+SUP-035,Mira Supply 35,South Africa,Local,2015-05-19,Active,30
+SUP-036,Nova Supply 36,Vietnam,International,2018-11-14,Active,30
+SUP-037,Solara Supply 37,South Africa,Local,2013-07-14,Active,30
+SUP-038,Vela Supply 38,South Africa,Local,2018-05-25,Active,90
+SUP-039,Luma Supply 39,South Africa,Local,2013-01-13,Active,60
+SUP-040,Nova Supply 40,South Africa,Local,2019-02-12,Active,90
+SUP-041,Nova Supply 41,Turkey,International,2018-11-19,Active,30
+SUP-042,Aurelia Select Supply 42,China,International,2012-12-03,Active,30
+SUP-043,Vela Supply 43,India,International,2020-04-17,Active,45
+SUP-044,Mira Supply 44,South Africa,Local,2016-07-21,Active,45
+SUP-045,Aurelia Select Supply 45,Turkey,International,2020-08-13,Active,45
+SUP-046,Pulse Supply 46,South Africa,Local,2012-06-15,Active,60
+SUP-047,Mira Supply 47,India,International,2013-12-18,Active,60
+SUP-048,Mira Supply 48,South Africa,Local,2017-05-29,Active,45
+SUP-049,Vela Supply 49,South Africa,Local,2014-01-22,Active,30
+SUP-050,Aurelia Select Supply 50,China,International,2015-08-12,Active,60
+SUP-051,Mira Supply 51,South Africa,Local,2019-03-27,Active,45
+SUP-052,Nova Supply 52,South Africa,Local,2013-08-01,Active,45
+SUP-053,Nova Supply 53,South Africa,Local,2019-06-03,Active,45
+SUP-054,Vela Supply 54,South Africa,Local,2013-02-17,Active,30
+SUP-055,Pulse Supply 55,China,International,2013-12-01,Active,60
+SUP-056,Vela Supply 56,India,International,2018-06-08,Active,60
+SUP-057,Pulse Supply 57,South Africa,Local,2020-09-08,Active,45
+SUP-058,Orion Supply 58,Vietnam,International,2013-11-13,Active,90
+SUP-059,Nova Supply 59,South Africa,Local,2015-04-14,Active,30
+SUP-060,Nova Supply 60,South Africa,Local,2022-02-17,Active,30
+SUP-061,Orion Supply 61,South Africa,Local,2022-11-02,Active,45
+SUP-062,Nova Supply 62,India,International,2018-05-13,Active,45
+SUP-063,Luma Supply 63,South Africa,Local,2016-11-23,Active,90
+SUP-064,Orion Supply 64,Turkey,International,2015-10-19,Active,30
+SUP-065,Orion Supply 65,China,International,2018-09-15,Active,30
+SUP-066,Luma Supply 66,India,International,2018-06-21,Active,60
+SUP-067,Nova Supply 67,South Africa,Local,2015-03-25,Active,45
+SUP-068,Vela Supply 68,South Africa,Local,2012-04-01,Active,60
+SUP-069,Orion Supply 69,South Africa,Local,2013-08-28,Active,90
+SUP-070,Aurelia Select Supply 70,South Africa,Local,2022-07-01,Active,30

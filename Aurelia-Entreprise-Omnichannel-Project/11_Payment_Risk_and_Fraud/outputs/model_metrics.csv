@@ -1,0 +1,2 @@
+payments,failure_rate,ROC_AUC,PR_AUC,F1,scope
+45000,0.1002,0.7967125912938996,0.6804586299282527,0.744988864142539,payment failure risk; no fraud label exists in supplied data

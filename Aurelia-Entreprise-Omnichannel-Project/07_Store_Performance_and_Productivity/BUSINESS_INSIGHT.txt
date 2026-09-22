@@ -1,0 +1,5 @@
+BUSINESS INSIGHT: Store Performance and Productivity
+
+This project evaluates store performance and productivity using the raw datasets listed in raw_data.
+The workflow separates dataset cleaning, profiling, feature engineering, business EDA, feature EDA and modelling.
+Each notebook has one analytical purpose and is written for reproducible IDE execution.

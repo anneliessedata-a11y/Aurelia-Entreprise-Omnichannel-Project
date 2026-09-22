@@ -1,0 +1,5 @@
+BUSINESS INSIGHT: Product Reviews and Customer Voice
+
+This project evaluates product reviews and customer voice using the raw datasets listed in raw_data.
+The workflow separates dataset cleaning, profiling, feature engineering, business EDA, feature EDA and modelling.
+Each notebook has one analytical purpose and is written for reproducible IDE execution.

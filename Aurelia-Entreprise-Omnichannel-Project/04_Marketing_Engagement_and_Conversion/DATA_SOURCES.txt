@@ -1,0 +1,6 @@
+RAW DATASETS USED BY THIS BUSINESS INSIGHT
+
+- marketing_events.csv
+- campaigns.csv
+- customers.csv
+- orders.csv

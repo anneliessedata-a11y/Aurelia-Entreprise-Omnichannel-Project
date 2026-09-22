@@ -1,0 +1,2 @@
+dataset,rows,columns,duplicates,missing_cells
+payments.csv,45000,10,0,1539

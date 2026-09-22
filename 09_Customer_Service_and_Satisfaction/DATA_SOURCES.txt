@@ -1,0 +1,6 @@
+RAW DATASETS USED BY THIS BUSINESS INSIGHT
+
+- support_tickets.csv
+- customers.csv
+- orders.csv
+- returns.csv

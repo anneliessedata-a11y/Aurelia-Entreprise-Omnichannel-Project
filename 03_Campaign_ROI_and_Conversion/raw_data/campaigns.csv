@@ -1,0 +1,51 @@
+campaign_id,campaign_name,campaign_type,channel,start_date,end_date,budget,target_segment,objective
+CMP-0001,Weekend Campaign 1,Product Launch,Social,2022-09-15,2022-10-07,647048.0,Standard,Retention
+CMP-0002,Summer Campaign 2,Acquisition,Social,2020-03-24,2020-04-24,288000.0,Core,Conversion
+CMP-0003,Member Campaign 3,Acquisition,Social,2021-01-28,2021-03-09,1161160.0,High Value,Retention
+CMP-0004,Summer Campaign 4,Promotion,Paid Search,2024-04-04,2024-04-28,279101.0,Emerging,Revenue
+CMP-0005,Clearance Campaign 5,Promotion,SMS,2026-06-23,2026-07-24,773761.0,Core,Clearance
+CMP-0006,Winter Campaign 6,Retention,Push,2024-07-09,2024-08-02,783677.0,Standard,Conversion
+CMP-0007,Weekend Campaign 7,Acquisition,Social,2022-01-21,2022-03-02,1403557.0,Standard,Conversion
+CMP-0008,Clearance Campaign 8,Acquisition,Email,2023-05-19,2023-06-10,749634.0,Emerging,Conversion
+CMP-0009,Summer Campaign 9,Promotion,Push,2022-01-26,2022-02-26,971674.0,Core,Revenue
+CMP-0010,Winter Campaign 10,Acquisition,SMS,2021-05-15,2021-06-08,1337748.0,High Value,Clearance
+CMP-0011,Summer Campaign 11,Promotion,Paid Search,2023-09-25,2023-10-15,438718.0,Standard,Retention
+CMP-0012,Summer Campaign 12,Retention,Paid Search,2021-08-30,2021-09-23,760735.0,Standard,Clearance
+CMP-0013,Clearance Campaign 13,Acquisition,Push,2026-01-29,2026-02-12,539094.0,Standard,Retention
+CMP-0014,Summer Campaign 14,Retention,Email,2025-08-02,2025-09-04,517634.0,Core,Revenue
+CMP-0015,Clearance Campaign 15,Retention,SMS,2024-09-05,2024-09-26,1156057.0,Standard,Conversion
+CMP-0016,Winter Campaign 16,Retention,SMS,2023-05-03,2023-05-29,1451632.0,Emerging,Revenue
+CMP-0017,Clearance Campaign 17,Promotion,Paid Search,2023-10-24,2023-11-27,1271178.0,Emerging,Clearance
+CMP-0018,Weekend Campaign 18,Product Launch,Push,2026-05-16,2026-05-31,1238034.0,Emerging,Revenue
+CMP-0019,Member Campaign 19,Product Launch,Social,2024-01-16,2024-02-02,606892.0,Standard,Clearance
+CMP-0020,Member Campaign 20,Product Launch,Social,2024-01-09,2024-02-22,1390661.0,Core,Clearance
+CMP-0021,Weekend Campaign 21,Promotion,SMS,2024-09-28,2024-10-21,127415.0,Emerging,Clearance
+CMP-0022,Winter Campaign 22,Acquisition,SMS,2024-10-03,2024-11-08,856664.0,Emerging,Clearance
+CMP-0023,Summer Campaign 23,Product Launch,Email,2020-02-01,2020-02-26,339284.0,Emerging,Retention
+CMP-0024,Summer Campaign 24,Promotion,Paid Search,2022-05-23,2022-07-04,1252337.0,Emerging,Conversion
+CMP-0025,Clearance Campaign 25,Acquisition,Paid Search,2024-03-11,2024-04-18,1396605.0,Emerging,Retention
+CMP-0026,Member Campaign 26,Retention,SMS,2024-12-07,2024-12-17,62938.0,Standard,Retention
+CMP-0027,Weekend Campaign 27,Promotion,SMS,2023-05-01,2023-05-23,827800.0,Core,Revenue
+CMP-0028,Summer Campaign 28,Promotion,Social,2021-11-25,2021-12-12,1326966.0,High Value,Conversion
+CMP-0029,Winter Campaign 29,Promotion,Email,2026-06-20,2026-07-10,232112.0,Emerging,Conversion
+CMP-0030,Winter Campaign 30,Acquisition,Email,2020-10-02,2020-10-25,856950.0,Core,Conversion
+CMP-0031,Clearance Campaign 31,Product Launch,Paid Search,2021-12-27,2022-01-12,914471.0,High Value,Clearance
+CMP-0032,Member Campaign 32,Acquisition,SMS,2020-01-04,2020-02-10,1126761.0,High Value,Revenue
+CMP-0033,Winter Campaign 33,Retention,SMS,2020-12-03,2021-01-15,466756.0,Standard,Clearance
+CMP-0034,Clearance Campaign 34,Acquisition,Social,2025-11-14,2025-11-26,406856.0,Core,Retention
+CMP-0035,Member Campaign 35,Retention,Email,2021-03-04,2021-04-12,944836.0,Standard,Conversion
+CMP-0036,Weekend Campaign 36,Product Launch,SMS,2023-10-08,2023-11-13,279581.0,Standard,Conversion
+CMP-0037,Summer Campaign 37,Promotion,Push,2024-10-17,2024-11-30,428800.0,Emerging,Clearance
+CMP-0038,Clearance Campaign 38,Acquisition,Paid Search,2022-10-16,2022-11-22,623852.0,Emerging,Conversion
+CMP-0039,Clearance Campaign 39,Acquisition,Push,2024-12-12,2024-12-26,1474530.0,Standard,Revenue
+CMP-0040,Member Campaign 40,Acquisition,Email,2023-10-25,2023-11-16,677653.0,Emerging,Clearance
+CMP-0041,Clearance Campaign 41,Promotion,Push,2024-01-04,2024-01-29,768089.0,High Value,Retention
+CMP-0042,Weekend Campaign 42,Promotion,Paid Search,2022-05-29,2022-06-05,173104.0,Standard,Revenue
+CMP-0043,Winter Campaign 43,Acquisition,Paid Search,2021-07-21,2021-08-05,593736.0,Standard,Retention
+CMP-0044,Member Campaign 44,Promotion,Email,2025-04-23,2025-05-30,1221523.0,Core,Retention
+CMP-0045,Clearance Campaign 45,Retention,Social,2022-01-30,2022-03-06,886230.0,Emerging,Retention
+CMP-0046,Summer Campaign 46,Acquisition,Email,2022-08-20,2022-09-13,175410.0,Standard,Conversion
+CMP-0047,Clearance Campaign 47,Retention,Social,2023-03-26,2023-04-16,653642.0,Emerging,Retention
+CMP-0048,Member Campaign 48,Retention,Social,2023-02-11,2023-03-18,125315.0,High Value,Clearance
+CMP-0049,Summer Campaign 49,Retention,SMS,2024-06-30,2024-07-15,762183.0,Emerging,Retention
+CMP-0050,Winter Campaign 50,Promotion,Push,2020-04-01,2020-05-10,1126187.0,Emerging,Revenue

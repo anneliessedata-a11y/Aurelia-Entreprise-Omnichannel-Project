@@ -1,0 +1,10 @@
+{
+  "rows": 29290,
+  "positive_rate": 0.022499146466370776,
+  "LogisticRegression_ROC_AUC": 0.4736251873301328,
+  "LogisticRegression_PR_AUC": 0.020971235575874523,
+  "LogisticRegression_F1": 0.041,
+  "RandomForest_ROC_AUC": 0.4798737585409841,
+  "RandomForest_PR_AUC": 0.02107083427667373,
+  "RandomForest_F1": 0.040774719673802244
+}
